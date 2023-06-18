@@ -82,3 +82,9 @@ def file_reader():
 		allData.append(filedata)
 ```
 ## Kibana Metrics for the data
+
+This is a screenshot of the a Kibana dashboard developed to illustrate and display the data in a more digestible way.
+
+<div>
+	<img src="https://res.cloudinary.com/dsques4uz/image/upload/v1687102353/kibana_sylvur.png"/>
+</div>
